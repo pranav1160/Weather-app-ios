@@ -1,6 +1,8 @@
 ## 🌦️ WeatherApp-iOS — Project Structure 🏗️  
 
-Our app is built with **Swift & SwiftUI**, following **MVVM (Model-View-ViewModel)** to keep things modular and scalable. Here's how everything is structured:  
+[![Watch the video](https://img.youtube.com/vi/izlw7PDNT5w/0.jpg)](https://youtube.com/shorts/izlw7PDNT5w)
+
+My app is built with **Swift & SwiftUI**, following **MVVM (Model-View-ViewModel)** to keep things modular and scalable. Here's how everything is structured:  
 
 📂 **Extensions/** → Houses Swift extensions like color utilities to enhance SwiftUI components.  
 
