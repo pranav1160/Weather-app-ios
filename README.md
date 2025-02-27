@@ -1,6 +1,6 @@
 ## 🌦️ WeatherApp-iOS — Project Structure 🏗️  
 
-[![Watch the video](https://img.youtube.com/vi/izlw7PDNT5w/0.jpg)](https://youtube.com/shorts/izlw7PDNT5w)
+[![Watch the video](https://img.youtube.com/vi/_bhoYzhvfr8/0.jpg)](https://youtube.com/shorts/_bhoYzhvfr8?si=iFkFC38VCTVwWd9W)
 
 My app is built with **Swift & SwiftUI**, following **MVVM (Model-View-ViewModel)** to keep things modular and scalable. Here's how everything is structured:  
 
